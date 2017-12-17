@@ -1,4 +1,2 @@
-test
-====
+How to use a badge
 
-test
